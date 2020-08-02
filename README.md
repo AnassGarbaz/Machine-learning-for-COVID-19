@@ -6,13 +6,12 @@ Pour la partie 1 :
    * Tout exécuter.
    
 Pour la partie 2 : 
-
       pour cette partie il faut avoir un IDE pour python ( pycharm, vscode ...).
       
-      * créer un projet qui contient les 4 fichier de dossier partie 2.
+   * créer un projet qui contient les 4 fichier de dossier partie 2.
       
-      * exécuter le fichier simulation.py pour voir la simulation simple.
+   * exécuter le fichier simulation.py pour voir la simulation simple.
       
-      * exécuter le fichier lockdown.py.
+   * exécuter le fichier lockdown.py.
       
-      * exécuter le fichier lockdown_security.py (dans cette simulation on arrête les personnes affectées si elles sont détectés).
+   * exécuter le fichier lockdown_security.py (dans cette simulation on arrête les personnes affectées si elles sont détectés).
