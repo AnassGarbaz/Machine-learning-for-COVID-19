@@ -1,5 +1,6 @@
 # Machine-learning-for-COVID-19
-##Pour la partie 1 :
+
+## Pour la partie 1 :
 
    * Ouvrir le fichier Analyse et prediction.ipynb dans colab ou jupyter d'anaconda.
    
@@ -7,7 +8,7 @@
    
    * Tout exécuter.
    
-##Pour la partie 2 : 
+## Pour la partie 2 : 
 
    pour cette partie il faut avoir un IDE pour python ( pycharm, vscode ...).
       
