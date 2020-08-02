@@ -6,7 +6,8 @@ Pour la partie 1 :
    * Tout exécuter.
    
 Pour la partie 2 : 
-      pour cette partie il faut avoir un IDE pour python ( pycharm, vscode ...).
+
+   pour cette partie il faut avoir un IDE pour python ( pycharm, vscode ...).
       
    * créer un projet qui contient les 4 fichier de dossier partie 2.
       
