@@ -2,7 +2,9 @@
 Pour la partie 1 :
 
    * Ouvrir le fichier Analyse et prediction.ipynb dans colab ou jupyter d'anaconda.
+   
    * Importer les fichier de dossier data.
+   
    * Tout exécuter.
    
 Pour la partie 2 : 
