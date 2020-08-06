@@ -20,4 +20,3 @@
       
    * exécuter le fichier lockdown_security.py (dans cette simulation on arrête les personnes affectées si elles sont détectés).
 
-![Alt Text](https://imgflip.com/embed/4aa6p7)
