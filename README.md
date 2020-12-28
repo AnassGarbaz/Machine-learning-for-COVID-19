@@ -1,5 +1,7 @@
 # Machine-learning-for-COVID-19
 
+Eng :
+
 ## For part 1:
 
   * Open the Analysis and Prediction.ipynb file in colab or anaconda jupyter.
@@ -19,6 +21,8 @@
   * run the lockdown.py file.
 
   * run the lockdown_security.py file (in this simulation we stop the affected people if they are detected).
+  
+FR :
   
 ## Pour la partie 1 :
 
